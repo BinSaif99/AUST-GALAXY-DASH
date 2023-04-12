@@ -107,6 +107,6 @@ You can find more technical documentation and examples on how to use **iGraphics
 
 AUST GALAXY DASH is released under the [MIT License](https://choosealicense.com/licenses/mit/). Feel free to use and modify the code as you see fit.
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-Lavender.svg)](https://choosealicense.com/licenses/mit/)
 
 
