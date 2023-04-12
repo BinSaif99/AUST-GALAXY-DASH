@@ -87,7 +87,7 @@ You can find more technical documentation and examples on how to use **iGraphics
 
 
 
-## Badges
+<!-- ## Badges
 
 [![wakatime](https://wakatime.com/badge/user/0a093f9a-51c9-4892-8ac1-1c52ad5136a8/project/f4d39c7f-7a5a-4a17-a222-2745203323c9.svg)](https://wakatime.com/badge/user/0a093f9a-51c9-4892-8ac1-1c52ad5136a8/project/f4d39c7f-7a5a-4a17-a222-2745203323c9)
 
@@ -100,7 +100,7 @@ You can find more technical documentation and examples on how to use **iGraphics
 
 <a target="_blank" href="https://github.com/BinSaif99/AUST-GALAXY-DASH/stargazers"><img src="https://img.shields.io/github/stars/piru72/AUST_BUDDY" alt="stars"/></a>
 
-<a target="_blank" href="https://github.com/BinSaif99/AUST-GALAXY-DASH/issues"><img src="https://img.shields.io/github/issues/binsaif99/AUST-GALAXY-DASH" alt="issues"/></a>
+<a target="_blank" href="https://github.com/BinSaif99/AUST-GALAXY-DASH/issues"><img src="https://img.shields.io/github/issues/binsaif99/AUST-GALAXY-DASH" alt="issues"/></a> -->
 
 
 ## License
