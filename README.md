@@ -41,6 +41,12 @@ The gameplay is simple: use the **`Arrow Keys`** to control your spaceship and a
 - Visual Studio 2010-2015 version
 - Igraphics programming language
 
+## Images
+
+#### Menu
+<p align= "center">
+<img src = "https://github.com/BinSaif99/AUST-GALAXY-DASH/blob/main/screenshot/Menu.png" height = "500">
+</p>
 
 ## Overview 
 
