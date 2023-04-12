@@ -65,9 +65,7 @@ The gameplay is simple: use the **`Arrow Keys`** to control your spaceship and a
 
 </p>
 
-## Overview 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Authors
