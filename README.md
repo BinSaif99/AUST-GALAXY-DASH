@@ -43,9 +43,26 @@ The gameplay is simple: use the **`Arrow Keys`** to control your spaceship and a
 
 ## Images
 
-#### Menu
+-  ### Menu
 <p align= "center">
 <img src = "https://github.com/BinSaif99/AUST-GALAXY-DASH/blob/main/screenshot/Menu.png" height = "500">
+</p>
+
+-  ### Levels
+<p align= "center">
+<img src = "https://github.com/BinSaif99/AUST-GALAXY-DASH/blob/main/screenshot/Levels.png" height = "500">
+</p>
+
+-  ### Gameplay & Scores
+<p align= "center">
+<img src = "https://github.com/BinSaif99/AUST-GALAXY-DASH/blob/main/screenshot/gameplay1.png" height = "400">
+<img src = "https://raw.githubusercontent.com/BinSaif99/AUST-GALAXY-DASH/main/screenshot/Highscores.bmp" height = "400">
+</p>
+
+-  ### Credits
+<p align= "center">
+<img src = "https://raw.githubusercontent.com/BinSaif99/AUST-GALAXY-DASH/main/screenshot/credits.bmp" height = "400">
+
 </p>
 
 ## Overview 
