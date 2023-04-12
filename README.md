@@ -110,3 +110,8 @@ AUST GALAXY DASH is released under the [MIT License](https://choosealicense.com/
 [![MIT License](https://img.shields.io/badge/License-MIT-purple.svg)](https://choosealicense.com/licenses/mit/)
 
 
+## Demo
+
+Insert gif or link to demo
+
+https://github.com/BinSaif99/AUST-GALAXY-DASH/blob/main/screenshot/gameplay1.png
