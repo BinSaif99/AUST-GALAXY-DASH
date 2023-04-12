@@ -61,7 +61,7 @@ The gameplay is simple: use the **`Arrow Keys`** to control your spaceship and a
 
 -  ### Credits
 <p align= "center">
-<img src = "https://github.com/BinSaif99/AUST-GALAXY-DASH/blob/main/screenshot/credits1.jpg" height = "300" width = "300">
+<img src = "https://github.com/BinSaif99/AUST-GALAXY-DASH/blob/main/screenshot/credits1.jpg" height = "300" width = "500">
 
 </p>
 
